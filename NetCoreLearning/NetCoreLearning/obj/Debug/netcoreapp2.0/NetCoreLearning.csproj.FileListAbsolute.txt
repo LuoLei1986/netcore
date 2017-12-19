@@ -1,0 +1,11 @@
+C:\study\netcore\NetCoreLearning\NetCoreLearning\bin\Debug\netcoreapp2.0\NetCoreLearning.deps.json
+C:\study\netcore\NetCoreLearning\NetCoreLearning\bin\Debug\netcoreapp2.0\NetCoreLearning.runtimeconfig.json
+C:\study\netcore\NetCoreLearning\NetCoreLearning\bin\Debug\netcoreapp2.0\NetCoreLearning.runtimeconfig.dev.json
+C:\study\netcore\NetCoreLearning\NetCoreLearning\bin\Debug\netcoreapp2.0\NetCoreLearning.dll
+C:\study\netcore\NetCoreLearning\NetCoreLearning\bin\Debug\netcoreapp2.0\NetCoreLearning.pdb
+C:\study\netcore\NetCoreLearning\NetCoreLearning\obj\Debug\netcoreapp2.0\NetCoreLearning.csprojResolveAssemblyReference.cache
+C:\study\netcore\NetCoreLearning\NetCoreLearning\obj\Debug\netcoreapp2.0\NetCoreLearning.csproj.CoreCompileInputs.cache
+C:\study\netcore\NetCoreLearning\NetCoreLearning\obj\Debug\netcoreapp2.0\NetCoreLearning.AssemblyInfoInputs.cache
+C:\study\netcore\NetCoreLearning\NetCoreLearning\obj\Debug\netcoreapp2.0\NetCoreLearning.AssemblyInfo.cs
+C:\study\netcore\NetCoreLearning\NetCoreLearning\obj\Debug\netcoreapp2.0\NetCoreLearning.dll
+C:\study\netcore\NetCoreLearning\NetCoreLearning\obj\Debug\netcoreapp2.0\NetCoreLearning.pdb
