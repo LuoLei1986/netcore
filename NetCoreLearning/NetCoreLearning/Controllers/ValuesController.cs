@@ -10,17 +10,20 @@ namespace NetCoreLearning.Controllers
     [Route("api/[controller]")]
     public class ValuesController : Controller
     {
+        // 1 create logger
         private readonly ILogger _logger;
 
+        // create logger & logger category 
         //public ValuesController(ILoggerFactory logger)
         //{
         //    _logger = logger.CreateLogger("NetCoreLearning.Controllers.ValuesController");
         //}
 
-        public ValuesController(ILogger<ValuesController> logger)
-        {
-            _logger = logger;
-        }
+        // create logger & logger category 
+        //public ValuesController(ILogger<ValuesController> logger)
+        //{
+        //    _logger = logger;
+        //}
 
         // GET api/values
         [HttpGet]
@@ -36,10 +39,12 @@ namespace NetCoreLearning.Controllers
 
             if (id == 0)
             {
-                _logger.LogWarning(LoggingEvents.GetItemNotFound, "id is invalid.");
+                // logging level
+                //_logger.LogWarning(LoggingEvents.GetItemNotFound, "id is invalid.");
             }
 
-            _logger.LogInformation(LoggingEvents.GetItem, "Get item {id}", id);
+            // logging level
+            // _logger.LogInformation(LoggingEvents.GetItem, "Get item {id}", id);
             return "value";
         }
 
